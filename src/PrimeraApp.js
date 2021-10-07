@@ -13,6 +13,7 @@ const PrimeraApp = ({saludo, subtitulo }) =>{
             <h1> { saludo } </h1>
                 {/* <pre>{JSON.stringify(saludo ,null, 3)}</pre>  */}
             <p> {subtitulo}</p>
+            <h3>Hello</h3>
         </>
     );
 }
